@@ -164,9 +164,13 @@ body{
     .container__meio{
         display: flex;
         flex-direction: column-reverse;
+        margin-bottom: 545px;
     
         }
     .secundario__botao{
         width: 20vh;
+    }
+    .rodape__logo{
+        margin-left: 5em;
     }
 }
