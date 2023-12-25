@@ -161,4 +161,12 @@ body{
     .rodape__lista{
         display: block;
     }
+    .container__meio{
+        display: flex;
+        flex-direction: column-reverse;
+    
+        }
+    .secundario__botao{
+        width: 20vh;
+    }
 }
